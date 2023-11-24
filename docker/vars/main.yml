@@ -1,0 +1,6 @@
+---
+# vars file for docker
+postgres_user: code
+postgres_user_password: 1243
+postgres_port: 5432
+postgres_db_name: post
